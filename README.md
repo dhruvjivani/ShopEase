@@ -47,7 +47,7 @@ screenshots/
 
 ## 🛠️ How to Run the App
 
-1. **Clone or unzip the project**
+1. git clone https://github.com/dhruvjivani/ShopEase
 2. Open terminal in project root
 3. Run:
    ```bash
